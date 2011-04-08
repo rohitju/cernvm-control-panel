@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/project/svn/!svn/ver/2321/cernvm-installer/trunk/contribs/ext
+END
+tar.exe
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/project/svn/!svn/ver/2321/cernvm-installer/trunk/contribs/ext/tar.exe
+END
+gzip.exe
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/project/svn/!svn/ver/2321/cernvm-installer/trunk/contribs/ext/gzip.exe
+END

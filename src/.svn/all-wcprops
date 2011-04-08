@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/project/svn/!svn/ver/2524/cernvm-installer/trunk/src
+END
+CVMIControlVBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIControlVBox.cpp
+END
+CVMISelectPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMISelectPage.h
+END
+CVMIControlVBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIControlVBox.h
+END
+CVMIControlVM.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIControlVM.h
+END
+CVMIDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIDialog.cpp
+END
+CVMICreatePage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/project/svn/!svn/ver/2322/cernvm-installer/trunk/src/CVMICreatePage.cpp
+END
+CVMIDialog.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/project/svn/!svn/ver/2244/cernvm-installer/trunk/src/CVMIDialog.qrc
+END
+CVMIConfigPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/project/svn/!svn/ver/2326/cernvm-installer/trunk/src/CVMIConfigPage.cpp
+END
+CVMIInstallPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIInstallPage.cpp
+END
+CVMIDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIDialog.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/project/svn/!svn/ver/2142/cernvm-installer/trunk/src/main.cpp
+END
+CVMIConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIConfig.cpp
+END
+CVMICreatePage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/project/svn/!svn/ver/2319/cernvm-installer/trunk/src/CVMICreatePage.h
+END
+CVMIAboutPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIAboutPage.cpp
+END
+CVMIConfigPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIConfigPage.h
+END
+CVMIInstallPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIInstallPage.h
+END
+CVMIConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/project/svn/!svn/ver/2256/cernvm-installer/trunk/src/CVMIConfig.h
+END
+CVMIAboutPage.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIAboutPage.qrc
+END
+CVMIAboutPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIAboutPage.h
+END
+CVMISelectPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMISelectPage.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/project/svn/!svn/ver/2524/cernvm-installer/trunk/src/CMakeLists.txt
+END
+CVMIData.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/CVMIData.h
+END

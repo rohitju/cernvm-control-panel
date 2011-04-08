@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/project/svn/!svn/ver/2315/cernvm-installer/trunk/nsis
+END
+FileAssociation.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/project/svn/!svn/ver/1946/cernvm-installer/trunk/nsis/FileAssociation.nsh
+END
+installer.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/project/svn/!svn/ver/2315/cernvm-installer/trunk/nsis/installer.nsi
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/project/svn/!svn/ver/1946/cernvm-installer/trunk/nsis/CMakeLists.txt
+END

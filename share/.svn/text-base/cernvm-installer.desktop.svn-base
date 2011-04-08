@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=cernvm-installer
+Exec=/usr/bin/cernvm-installer
+Name[en_US]=cernvm-installer
+Name=CernVM Installer
+Comment=CernVM installation program
+Icon=cernvm-installer
+Categories=Application;Utility;

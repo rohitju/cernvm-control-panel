@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/images
+END
+download_icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/project/svn/!svn/ver/2161/cernvm-installer/trunk/src/images/download_icon.png
+END
+configure_icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/project/svn/!svn/ver/2244/cernvm-installer/trunk/src/images/configure_icon.png
+END
+application_icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/project/svn/!svn/ver/2325/cernvm-installer/trunk/src/images/application_icon.png
+END

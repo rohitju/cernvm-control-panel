@@ -1,0 +1,55 @@
+*** About ***
+
+CernVM Installer is an open source tool for downloading and installing CernVM releases
+Author: Artem Harutyunyan (Artem.Harutyunyan _at_ cern.ch)
+(C) CERN PH-SFT 2010-2011
+
+*** Sources ***
+
+CernVM Installer sources can be obtained from
+
+https://cernvm.cern.ch/project/svn/cernvm-installer
+
+*** Compiling ***
+
+The build system of CernVM Installer has been developed on the 
+basis of CMakeQt project (http://github.com/rohityadav/cmakeqt, (C) Rohit Yadav 
+<rohityadav89 _ at_ gmail.com>, 2009-11)
+
+  mkdir build && cd build
+  cmake .. && make
+  
+The binary will be created in <build-folder>/bin
+
+*** Packaging ***
+
+1. On Linux: 
+  make package
+
+  To force deb:
+    cpack -G DEB
+
+  To force rom:
+    cpack -G RPM
+
+2. On Mac: (gcc, g++, make, cmake, qt 4.6+ etc. must be installed...)
+  cd contribs
+  sh contribs-mac.sh
+  This will by default create a Mac Bundle, cernvm-installer.app in build/bin
+
+  To create a dmg image:
+    Uncomment #dmg in /src/CMakeLists.txt, at the end of the file.
+    and follow the build process, the dmg will be created in build/bin
+
+3. To cross-compile and package on linux for windows:
+
+  cd contribs
+  sh contribs.sh
+  mkdir win32 && cd win32
+  cmake -DCMAKE_TOOLCHAIN_FILE=cmake/toolchain-win32.cmake ..
+  make
+  make installer
+
+  This will create an .exe installer in win32/bin
+
+ 
